@@ -1,0 +1,16 @@
+{
+  "name": "node-wutismyip",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Felix Fong <moongod101@hotmail.com> (https://felixfong227.me/)",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^24.0.21",
+    "jest": "^24.9.0"
+  }
+}
